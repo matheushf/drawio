@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="ASCcdzbl0eY8SIUXQsEC">
-    <mxGraphModel dx="1071" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,10 +76,10 @@
           <mxGeometry x="49.61095890410959" y="116.66333333333333" width="71.21917808219177" height="44.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="C--jNE-5lA6tGIt0aphc-20" value="Auth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70.82999999999998" y="322" width="68.82" height="50" as="geometry" />
+          <mxGeometry x="66.82999999999998" y="305" width="68.82" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C--jNE-5lA6tGIt0aphc-24" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227.82999999999998" y="322" width="68.82" height="50" as="geometry" />
+          <mxGeometry x="231.82999999999998" y="304" width="68.82" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C--jNE-5lA6tGIt0aphc-31" value="React&lt;div&gt;Typescript&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="468.32" y="161.46" width="68.82" height="60.4" as="geometry" />
